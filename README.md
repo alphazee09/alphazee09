@@ -23,6 +23,7 @@ I’m Mazin, your go-to developer for all things web, mobile, and enterprise. I 
 - **ExpressJS**: Simplifying Node.js server development, because life’s too short for boilerplate. ⚙️
 - **Laravel**: The PHP framework that makes elegant code a reality. 🎨
 - **Flutter**: Creating beautiful, natively compiled apps from a single codebase. 🚀
+- **Qt**: Because Why Not ?!.  :)
 
 ### Databases
 - **MongoDB**: For those moments when you need flexibility with your data. 📜
@@ -31,6 +32,7 @@ I’m Mazin, your go-to developer for all things web, mobile, and enterprise. I 
 ### Comprehensive Experience
 - **Software Development Life Cycle (SDLC)**: Designing, securing, and implementing with a focus on making things work seamlessly. 🔄
 - **REST APIs**: Crafting secure, efficient, and scalable RESTful services—because APIs should be as smooth as butter. 🔗
+
 
 ## Interests
 - **Artificial Intelligence**: Exploring the realm where machines might one day outsmart their creators. 🤖
