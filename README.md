@@ -49,7 +49,7 @@ Whether you want to talk tech, share an idea, or just say hi, I’m here! Reach 
 
 - **Medium**: [@alphazee09](https://www.medium.com/@alphazee09)
 - **ORCID**: [alphazee09](https://orcid.org/0009-0006-9727-4236)
-- **Linkedin**: [Mazin Yahia] (https://www.linkedin.com/in/mazin-yahia-mohamadelhassan-1b448a322)
+- **Linkedin**: [Mazin Yahia](https://www.linkedin.com/in/mazin-yahia-mohamadelhassan-1b448a322)
 - **Facebook**: [alphazee09](https://facebook.com/alphazee09)
 - **Instagram**: [alphazee09](https://www.instagram.com/alphazee09)
 - **x**: [@alphazee](https://www.instagram.com/alphazee09)
