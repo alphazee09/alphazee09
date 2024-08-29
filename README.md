@@ -47,14 +47,13 @@ I once tried to teach an AI to make coffee. It ended up hyper-caffeinated and de
 
 Whether you want to talk tech, share an idea, or just say hi, I’m here! Reach out ..
 
-- **Medium**: [@alphazee09](https://www.medium.com/@alphazee09)
-- **ORCID**: [alphazee09](https://orcid.org/0009-0006-9727-4236)
-- **Linkedin**: [Mazin Yahia](https://www.linkedin.com/in/mazin-yahia-mohamadelhassan-1b448a322)
-- **Facebook**: [alphazee09](https://facebook.com/alphazee09)
-- **Instagram**: [alphazee09](https://www.instagram.com/alphazee09)
-- **x**: [@alphazee](https://www.instagram.com/alphazee09)
-- **Twitter**: [@alphazee09](https://twitter.com/alphazee09)
-- **Email**: [alpha_toor@protonmail.com](mailto:alpha_toor@protonmail.com)
+- **Medium**: [Alphazee09](https://www.medium.com/@alphazee09)
+- **ORCID**: [Alphazee09](https://orcid.org/0009-0006-9727-4236)
+- **Linkedin**: [Alphazee09](www.linkedin.com/in/alphazee09)
+- **Facebook**: [Alphazee09](https://facebook.com/alphazee09)
+- **Instagram**: [Alphazee09](https://www.instagram.com/alphazee_09)
+- **X**: [Alphazee09](https://x.com/alphazee09)
+- **Email**: [Alphazee09](mailto:alpha_toor@protonmail.com)
 
 Let’s code something epic together! 🚀
 
