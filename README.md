@@ -5,7 +5,11 @@ Hello there! 👋 I’m Mazin Yahia, a Sudanese software developer who believes 
 
 ## Who Am I?
 
-I’m Mazin, your go-to developer for all things web, mobile, and enterprise. I turn caffeine into code and ideas into fully-fledged applications. From sleek web apps to mobile marvels and robust ERP systems, I’ve got the skills and the willpower to tackle any challenge.
+A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions.
+With a strong foundation in Python, Laravel, Flutter, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's , CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations an intensive Busineses Oreinted Systems for a huge cooperation.
+My experience spans over a decade, with a particular focus on backend development, API design, and stucure , as well as database designs and management.
+In addition to my technical expertise, I have a proven track record of troubleshooting complex issues in large-scale systems and servers, and I adept at navigating the challenges of high-stakes, deadline-driven environments.
+Am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
 
 ## My Skill Set
 
@@ -52,6 +56,7 @@ Whether you want to talk tech, share an idea, or just say hi, I’m here! Reach 
 - **Linkedin**: [Alphazee09](www.linkedin.com/in/alphazee09)
 - **Facebook**: [Alphazee09](https://facebook.com/alphazee09)
 - **Instagram**: [Alphazee09](https://www.instagram.com/alphazee_09)
+- **Threads**: [Alphazee_09](https://www.threads.net/@alphazee_09)
 - **X**: [Alphazee09](https://x.com/alphazee09)
 - **Email**: [Alphazee09](mailto:alpha_toor@protonmail.com)
 
