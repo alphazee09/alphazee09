@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Mazin Yahia - Software Developer Extraordinaire 🚀
+# 🧑‍💻 Mazin Yahia | Software Developer Extraordinaire 🚀
 
 Hello there! 👋 I’m Mazin Yahia, a Sudanese software developer who believes that code should be both elegant and fun. With 6 years of diving deep into the coding abyss, I’m here to turn complex problems into simple solutions and make your tech dreams come true. Ready to embark on a coding adventure? Let’s get started!
 
