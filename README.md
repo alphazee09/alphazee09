@@ -6,7 +6,7 @@ Hello there! 👋 I’m Mazin Yahia, a Sudanese software developer who believes 
 ## Who Am I?
 
 A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions.
-With a strong foundation in Python, Laravel, Flutter, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's , CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations an intensive Busineses Oreinted Systems for a huge cooperation.
+With a strong foundation in Python, Laravel, Java , Flutter, Dart and JavaScript, I've successfully led and contributed to multiple projects, including ERP's , CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations an intensive Busineses Oreinted Systems for a huge cooperation.
 My experience spans over a decade, with a particular focus on backend development, API design, and stucure , as well as database designs and management.
 In addition to my technical expertise, I have a proven track record of troubleshooting complex issues in large-scale systems and servers, and I adept at navigating the challenges of high-stakes, deadline-driven environments.
 Am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
