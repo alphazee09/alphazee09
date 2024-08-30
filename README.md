@@ -54,6 +54,7 @@ Whether you want to talk tech, share an idea, or just say hi, I’m here! Reach 
 - **Medium**: [Alphazee09](https://www.medium.com/@alphazee09)
 - **ORCID**: [Alphazee09](https://orcid.org/0009-0006-9727-4236)
 - **Linkedin**: [Alphazee09](www.linkedin.com/in/alphazee09)
+- **Hsoub**: [Alphazee09](https://io.hsoub.com/u/alphazee09)
 - **Facebook**: [Alphazee09](https://facebook.com/alphazee09)
 - **Instagram**: [Alphazee09](https://www.instagram.com/alphazee_09)
 - **Threads**: [Alphazee_09](https://www.threads.net/@alphazee_09)
