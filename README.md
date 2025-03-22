@@ -60,11 +60,11 @@ A skilled software developer and backend expert with a deep passion for creating
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
   <a href="mailto:mz@mazinyahia.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-mail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mazinyahia.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/browser-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alphazee09">
