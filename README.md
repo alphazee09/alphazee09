@@ -68,7 +68,9 @@ A skilled software developer and backend expert with a deep passion for creating
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/> </p>
 
-<h2 align="center">🔗 Connect with Me</h2>
+<br>
+
+<h2 align="center">🔗 Reach Out</h2>
 <p align="center">
   <a href="mailto:mz@mazinyahia.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" width="50" height="50" alt="Mail" />
