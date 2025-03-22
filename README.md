@@ -64,11 +64,11 @@ A skilled software developer and backend expert with a deep passion for creating
   <img src="https://github-profile-trophy.vercel.app/?username=alphazee09&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
 </div>
 
-<br>
+---
 
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/> </p>
 
----
+
 
 <h2 align="center">🔗 Reach Out</h2>
 <p align="center">
