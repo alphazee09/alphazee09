@@ -1,6 +1,6 @@
 <h1 align="center">Mazin Yahia 🧑‍💻</h1>
 <p align="center">
-  <img src="https://flagcdn.com/sd.svg" width="100" height="auto" alt="Sudan Flag"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="100" height="auto" alt="Sudan Flag"/>
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Developer;Backend+Expert;AI+Enthusiast" width="auto" height="35" alt="Typing"/>
