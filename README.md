@@ -60,7 +60,7 @@ A skilled software developer and backend expert with a deep passion for creating
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
   <a href="mailto:mz@mazinyahia.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" width="55" height="50" alt="Mail" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" width="50" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:tama26phone@gmail.com">
@@ -68,7 +68,7 @@ A skilled software developer and backend expert with a deep passion for creating
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mazinyahia.com">
-    <img align="center" src="https://mazinyahia.com/storage/image-logo-photoroom.png" width="65" height="55" alt="Website"/>
+    <img align="center" src="https://mazinyahia.com/storage/image-logo-photoroom.png" width="65" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alphazee09">
@@ -76,7 +76,7 @@ A skilled software developer and backend expert with a deep passion for creating
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/alphazee09">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook.svg" width="50" height="50" alt="Facebook"/>
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook.svg" width="60" height="60" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/alphazee09">
