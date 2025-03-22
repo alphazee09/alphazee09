@@ -3,7 +3,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Slab&color=%2340c463&size=30&center=true&vCenter=true&width=450&duration=4000&pause=1000&lines=Am+not+anti-social+I’m+just+not+user+friendly" width="auto" height="35" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Slab&color=%2340c463&size=30&center=true&vCenter=true&width=450&duration=4000&pause=1000&lines=I'm+not+anti-social+I’m+just+not+user+friendly" alt="Typing"/>
 </p>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
