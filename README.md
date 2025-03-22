@@ -76,7 +76,7 @@ A skilled software developer and backend expert with a deep passion for creating
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/alphazee09">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-5.svg" width="50" height="50" alt="Facebook"/>
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook.svg" width="50" height="50" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/alphazee09">
