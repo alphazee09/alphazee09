@@ -10,7 +10,9 @@
 <p align="justify">
 A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions. With a strong foundation in Python, Laravel, Java, Flutter, Dart, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's, CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations for intensive business-oriented systems for large corporations. My experience spans over a decade, with a particular focus on backend development, API design, and database management. I am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
 </p>
-
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" width="auto" height="35" alt="Typing"/>
+</p>
 <p align="center">Currently learning -> Machine Learning & AI</p>
 <p align="center">Currently working on -> Private Projects</p>
 
