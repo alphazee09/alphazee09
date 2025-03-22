@@ -74,5 +74,17 @@ A skilled software developer and backend expert with a deep passion for creating
   <a href="https://linkedin.com/in/alphazee09">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/alphazee09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" width="50" height="50" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/alphazee09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/x-logo-black.svg" width="50" height="50" alt="X (Twitter)"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/alphazee_09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="50" height="50" alt="Instagram"/>
+  </a>
 </p>
 
