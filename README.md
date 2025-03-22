@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
-
 <h2 align="center">👨🏻‍💻 About Me</h2>
 <p align="justify">
 A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions. With a strong foundation in Python, Laravel, Java, Flutter, Dart, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's, CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations for intensive business-oriented systems for large corporations. My experience spans over a decade, with a particular focus on backend development, API design, and database management. I am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
@@ -27,13 +26,13 @@ A skilled software developer and backend expert with a deep passion for creating
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="65" height="65" alt="PHP"/><br><b>PHP</b></td>
+   <td align="center"><img src="https://i.imgur.com/your-php-logo.png" width="65" height="65" alt="PHP"/><br><b>PHP</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="65" height="65" alt="Laravel"/><br><b>Laravel</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="65" height="65" alt="Flutter"/><br><b>Flutter</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node.js</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL</b></td>
+   <td align="center"><img src="https://i.imgur.com/your-mysql-logo.png" width="65" height="65" alt="MySQL"/><br><b>MySQL</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB</b></td>
 </tr>
 </table>
