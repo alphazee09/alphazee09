@@ -1,7 +1,6 @@
 <h1 align="center">Mazin Yahia 🧑‍💻</h1>
 <p align="center">
   <img src="https://flagcdn.com/sd.svg" width="100" height="auto" alt="Sudan Flag"/>
-   <h2 align="center">نحن جند الله , جند الوطن</h2>
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Developer;Backend+Expert;AI+Enthusiast" width="auto" height="35" alt="Typing"/>
@@ -38,6 +37,19 @@ A skilled software developer and backend expert with a deep passion for creating
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" width="auto" height="35" alt="Typing"/>
 </p>
+
+<br>
+
+<h2 align="center">📕 Featured Repositories</h2>
+<div align="center">
+  <a href="https://github.com/alphazee09/SkyGate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=SkyGate&theme=transparent" alt="SkyGate"/>
+  </a>
+  <a href="https://github.com/alphazee09/CodeSculptor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=CodeSculptor&theme=transparent" alt="CodeSculptor"/>
+  </a>
+</div>
+
 <br>
 
 <h2 align="center">📊 GitHub Stats</h2>
