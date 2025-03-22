@@ -14,14 +14,7 @@ A skilled software developer and backend expert with a deep passion for creating
 </p>
 
 ---
-
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" width="auto" height="35" alt="Typing"/>
-</p>
-
-<br>
-
-<<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 <table align="center">
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
@@ -36,6 +29,9 @@ A skilled software developer and backend expert with a deep passion for creating
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB</b></td>
 </tr>
 </table>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" width="auto" height="35" alt="Typing"/>
+</p>
 <br>
 
 <h2 align="center">📊 GitHub Stats</h2>
