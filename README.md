@@ -13,8 +13,6 @@ A skilled software developer and backend expert with a deep passion for creating
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" width="auto" height="35" alt="Typing"/>
 </p>
-<p align="center">Currently learning -> Machine Learning & AI</p>
-<p align="center">Currently working on -> Private Projects</p>
 
 <br>
 
