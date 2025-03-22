@@ -63,6 +63,10 @@ A skilled software developer and backend expert with a deep passion for creating
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="mailto:tama26phone@gmail.com">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mazinyahia.com">
     <img align="center" src="https://mazinyahia.com/storage/image-logo-photoroom.png" width="50" height="50" alt="Website"/>
   </a>
