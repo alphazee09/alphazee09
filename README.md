@@ -23,6 +23,8 @@ A skilled software developer and backend expert with a deep passion for creating
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="65" height="65" alt="PHP"/><br><b>PHP</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="65" height="65" alt="Laravel"/><br><b>Laravel</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
