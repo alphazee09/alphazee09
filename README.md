@@ -60,7 +60,7 @@ A skilled software developer and backend expert with a deep passion for creating
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
   <a href="mailto:mz@mazinyahia.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-mail-icon-2020-.svg" width="55" height="50" alt="Mail" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mazinyahia.com">
@@ -72,4 +72,3 @@ A skilled software developer and backend expert with a deep passion for creating
   </a>
 </p>
 
-<p align="right"><a href="#"><img src="https://img.shields.io/static/v1?label&message=Navigate+to+Top&color=0b6ab3&style=flat&logo" alt="Top" /></a></p>
