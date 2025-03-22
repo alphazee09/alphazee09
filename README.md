@@ -21,18 +21,18 @@ A skilled software developer and backend expert with a deep passion for creating
 
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
+<<h2 align="center">💻 Tech Stack</h2>
 <table align="center">
 <tr>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java</b></td>
-   <td align="center"><img src="https://i.imgur.com/your-php-logo.png" width="65" height="65" alt="PHP"/><br><b>PHP</b></td>
+   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="65" height="65" alt="PHP"/><br><b>PHP</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="65" height="65" alt="Laravel"/><br><b>Laravel</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="65" height="65" alt="Flutter"/><br><b>Flutter</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node.js</b></td>
-   <td align="center"><img src="https://i.imgur.com/your-mysql-logo.png" width="65" height="65" alt="MySQL"/><br><b>MySQL</b></td>
+   <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB</b></td>
 </tr>
 </table>
