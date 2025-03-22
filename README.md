@@ -66,6 +66,8 @@ A skilled software developer and backend expert with a deep passion for creating
 
 <br>
 
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/> </p>
+
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
   <a href="mailto:mz@mazinyahia.com">
