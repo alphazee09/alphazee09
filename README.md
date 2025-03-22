@@ -64,7 +64,7 @@ A skilled software developer and backend expert with a deep passion for creating
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mazinyahia.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/browser-.svg" width="50" height="50" alt="Website"/>
+    <img align="center" src="https://mazinyahia.com/storage/image-logo-photoroom.png" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alphazee09">
