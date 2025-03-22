@@ -1,17 +1,19 @@
-<h1 align="center">Mazin Yahia 🧑‍💻</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Developer;Backend+Expert;AI+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p>
-<h2 align="center">نحن جند الله , جند الوطن</h2>
+<h1 align="center">Mazin Yahia 🧑‍💻</h1>
 <p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
+  <img src="https://flagcdn.com/sd.svg" width="100" height="auto" alt="Sudan Flag"/>
 </p>
+<h2 align="center">نحن جند الله , جند الوطن</h2>
+
 
 ---
 
 <p align="center">
-  <img src="https://flagcdn.com/sd.svg" width="100" height="auto" alt="Sudan Flag"/>
+  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
+
 <h2 align="center">👨🏻‍💻 About Me</h2>
 <p align="justify">
 A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions. With a strong foundation in Python, Laravel, Java, Flutter, Dart, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's, CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations for intensive business-oriented systems for large corporations. My experience spans over a decade, with a particular focus on backend development, API design, and database management. I am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
