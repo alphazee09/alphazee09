@@ -3,9 +3,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Slab&color=%2340c463&size=24&center=true&vCenter=true&width=500&duration=4000&pause=1000&lines=I'm+Not+Anti-Social+Am+Just+Not+User-Friendly" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron-Black+Slab&color=%2340c463&size=28&center=true&vCenter=true&width=600&duration=6000&pause=1000&lines=Value+Loyalty+Above+All+Else" alt="Typing Animation"/>
 </p>
-
+   all 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 <p align="justify">
 A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions. With a strong foundation in Python, Laravel, Java, Flutter, Dart, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's, CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations for intensive business-oriented systems for large corporations. My experience spans over a decade, with a particular focus on backend development, API design, and database management. I am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
