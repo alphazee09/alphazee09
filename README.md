@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github.com/alphazee09/alphazee09/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=🇸🇩+SUDAN+DIGITAL+PIONEER+🇸🇩;⚡+AI+SECURITY+MASTERMIND+⚡;🛡️+BACKEND+VIRTUOSO+🛡️;🚀+FULL-STACK+ARCHITECT+🚀;💎+VALUE+LOYALTY+ABOVE+ALL+ELSE+💎" alt="Epic Introduction"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=🇸🇩+SUDAN+DIGITAL+PIONEER+🇸🇩;⚡+AI+SECURITY+MASTERMIND+⚡;🛡️+BACKEND+VIRTUOSO+🛡️;🚀+FULL-STACK+ARCHITECT+🚀;💎+VALUE+LOYALTY+ABOVE+ALL+ELSE+💎" alt="Epic Introduction"/>
   </h1>
 </div>
 
@@ -32,14 +32,21 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphazee09&theme=github_dark" height="200"/>
       </td>
       <td align="center" width="33%">
-        <img src="https://activity-graph.herokuapp.com/graph?username=alphazee09&theme=github-compact&bg_color=0d1117&hide_border=true&line=00ff41&point=ff073a&color=ffffff&area_color=00ff41&area=true" height="200"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphazee09&theme=github-compact&bg_color=0d1117&hide_border=true&line=00ff41&point=ff073a&color=ffffff&area_color=00ff41&area=true" height="200"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=%22In+a+world+of+digital+chaos%2C+I+am+the+architect+of+order%22;%22Building+bridges+between+human+dreams+and+AI+reality%22;%22Every+line+of+code+is+a+step+towards+technological+evolution%22" alt="Philosophy"/>
+  
+### **🧠 THE VISIONARY**
+*"In a world of digital chaos, I am the architect of order"*
+
+*"Building bridges between human dreams and AI reality"*
+
+*"Every line of code is a step towards technological evolution"*
+
 </div>
 
 ### 🧠 **THE VISIONARY**
@@ -54,7 +61,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🧬 **TECHNOLOGICAL ARSENAL**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🔥+MASTER+TIER+TECHNOLOGIES+🔥;⚡+EXPERT+LEVEL+PROFICIENCY+⚡;🛡️+PRODUCTION-BATTLE-TESTED+🛡️" alt="Tech Header"/>
+  
+# 🔥 **MASTER TIER TECHNOLOGIES** 🔥
+### ⚡ **EXPERT LEVEL PROFICIENCY** ⚡
+### 🛡️ **PRODUCTION-BATTLE-TESTED** 🛡️
+
 </div>
 
 ### **🔥 MASTER TIER - The Foundation**
@@ -163,7 +174,12 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=18&duration=2000&pause=800&color=1E90FF&center=true&vCenter=true&width=900&height=60&lines=🔥+ARCHITECTING+SCALABLE+BACKEND+SOLUTIONS;🛡️+PIONEERING+AI-DRIVEN+SECURITY+SYSTEMS;⚡+CRAFTING+HIGH-PERFORMANCE+API+ECOSYSTEMS;🚀+BUILDING+ENTERPRISE-GRADE+DIGITAL+PLATFORMS"/>
+  
+### 🔥 ARCHITECTING SCALABLE BACKEND SOLUTIONS
+### 🛡️ PIONEERING AI-DRIVEN SECURITY SYSTEMS  
+### ⚡ CRAFTING HIGH-PERFORMANCE API ECOSYSTEMS
+### 🚀 BUILDING ENTERPRISE-GRADE DIGITAL PLATFORMS
+
 </div>
 
 ---
@@ -171,7 +187,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🌟 **LEGENDARY PROJECT SHOWCASE**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&width=800&lines=🚀+DIGITAL+MASTERPIECES+🚀;⭐+PRODUCTION+BATTLE-TESTED+⭐;💎+ENTERPRISE+GRADE+SOLUTIONS+💎" alt="Project Header"/>
+  
+# 🚀 **DIGITAL MASTERPIECES** 🚀
+## ⭐ **PRODUCTION BATTLE-TESTED** ⭐  
+## 💎 **ENTERPRISE GRADE SOLUTIONS** 💎
+
 </div>
 
 <div align="center">
@@ -235,7 +255,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 📊 **PERFORMANCE ANALYTICS DASHBOARD**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=📊+GITHUB+PERFORMANCE+METRICS+📊;⚡+REAL-TIME+ANALYTICS+⚡;🔥+DATA-DRIVEN+INSIGHTS+🔥" alt="Analytics Header"/>
+  
+# 📊 **GITHUB PERFORMANCE METRICS** 📊
+## ⚡ **REAL-TIME ANALYTICS** ⚡
+## 🔥 **DATA-DRIVEN INSIGHTS** 🔥
+
 </div>
 
 <div align="center">
@@ -290,7 +314,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🏆 **HALL OF ACHIEVEMENTS**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🏆+LEGENDARY+ACHIEVEMENTS+🏆;👑+MASTER+OF+THE+DIGITAL+REALM+👑;💎+ELITE+DEVELOPER+STATUS+💎" alt="Achievements Header"/>
+  
+# 🏆 **LEGENDARY ACHIEVEMENTS** 🏆
+## 👑 **MASTER OF THE DIGITAL REALM** 👑
+## 💎 **ELITE DEVELOPER STATUS** 💎
+
 </div>
 
 <div align="center">
@@ -338,7 +366,12 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 💡 **INNOVATION LABORATORY**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=25&duration=4000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=🧪+EXPERIMENTAL+PROJECTS+%26+R%26D;🔬+CUTTING-EDGE+TECHNOLOGY+RESEARCH;🚀+FUTURE-FOCUSED+DEVELOPMENT+INITIATIVES;💡+OPEN-SOURCE+CONTRIBUTIONS+%26+INNOVATION" alt="Innovation Lab"/>
+  
+### 🧪 **EXPERIMENTAL PROJECTS & R&D**
+### 🔬 **CUTTING-EDGE TECHNOLOGY RESEARCH**  
+### 🚀 **FUTURE-FOCUSED DEVELOPMENT INITIATIVES**
+### 💡 **OPEN-SOURCE CONTRIBUTIONS & INNOVATION**
+
 </div>
 
 ### **🔬 RESEARCH & DEVELOPMENT FOCUS AREAS**
@@ -379,7 +412,12 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🎨 **DIGITAL PERSONA**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%22In+the+symphony+of+code%2C+I+am+the+conductor%22;%22Where+AI+meets+security%2C+innovation+is+born%22;%22From+Sudan's+sands+to+global+servers%22;%22Building+tomorrow's+digital+infrastructure+today%22" alt="Digital Philosophy"/>
+  
+### *"In the symphony of code, I am the conductor"*
+### *"Where AI meets security, innovation is born"*
+### *"From Sudan's sands to global servers"*  
+### *"Building tomorrow's digital infrastructure today"*
+
 </div>
 
 ### **🌟 CORE PHILOSOPHY**
@@ -407,7 +445,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 📚 **KNOWLEDGE VAULT**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&width=800&lines=📖+CONTINUOUS+LEARNING+JOURNEY;🎓+KNOWLEDGE+SHARING+ADVOCATE;💡+MENTORSHIP+%26+COMMUNITY+BUILDING" alt="Knowledge Header"/>
+  
+### 📖 **CONTINUOUS LEARNING JOURNEY**
+### 🎓 **KNOWLEDGE SHARING ADVOCATE**
+### 💡 **MENTORSHIP & COMMUNITY BUILDING**
+
 </div>
 
 ### **📖 LATEST LEARNING ADVENTURES**
@@ -451,7 +493,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🎯 **CURRENT MISSION: 2025**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=🎯+MISSION+2025%3A+DIGITAL+TRANSFORMATION;🚀+NEXT-LEVEL+AI+SECURITY+PLATFORMS;💎+ENTERPRISE+SOLUTIONS+AT+SCALE" alt="Mission 2025"/>
+  
+### 🎯 **MISSION 2025: DIGITAL TRANSFORMATION**
+### 🚀 **NEXT-LEVEL AI SECURITY PLATFORMS**
+### 💎 **ENTERPRISE SOLUTIONS AT SCALE**
+
 </div>
 
 ### **🚀 ACTIVE PROJECTS & GOALS**
@@ -491,7 +537,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🌍 **GLOBAL IMPACT & RECOGNITION**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🌍+GLOBAL+DIGITAL+FOOTPRINT;🏆+INTERNATIONAL+RECOGNITION;💫+TRANSFORMING+BUSINESSES+WORLDWIDE" alt="Global Impact"/>
+  
+### 🌍 **GLOBAL DIGITAL FOOTPRINT**
+### 🏆 **INTERNATIONAL RECOGNITION**  
+### 💫 **TRANSFORMING BUSINESSES WORLDWIDE**
+
 </div>
 
 ### **🌟 WORLDWIDE INFLUENCE**
@@ -536,7 +586,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=400&size=18&duration=6000&pause=2000&color=C9D1D9&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22Code+is+poetry%2C+architecture+is+symphony%22;%22In+every+bug%2C+there's+a+lesson+waiting+to+be+learned%22;%22Security+is+not+a+feature%2C+it's+a+foundation%22" alt="Daily Wisdom"/>
+  
+### *"Code is poetry, architecture is symphony"*
+### *"In every bug, there's a lesson waiting to be learned"*
+### *"Security is not a feature, it's a foundation"*
+
 </div>
 
 ---
@@ -544,7 +598,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🎪 **FUN ZONE & EASTER EGGS**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=3000&pause=1000&color=FF073A&center=true&vCenter=true&width=600&lines=🎪+DISCOVER+THE+HIDDEN+GEMS+🎪;🎲+INTERACTIVE+ELEMENTS+🎲;🎨+CREATIVE+SHOWCASE+🎨" alt="Fun Zone"/>
+  
+### 🎪 **DISCOVER THE HIDDEN GEMS** 🎪
+### 🎲 **INTERACTIVE ELEMENTS** 🎲
+### 🎨 **CREATIVE SHOWCASE** 🎨
+
 </div>
 
 ### **🎮 INTERACTIVE ELEMENTS**
@@ -552,9 +610,15 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
   <details>
     <summary><b>🎯 Click here for a surprise! 🎯</b></summary>
     <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&lines=🎉+You+found+the+easter+egg!+🎉;💎+Curiosity+is+the+key+to+innovation+💎;🚀+Keep+exploring%2C+keep+learning!+🚀" alt="Easter Egg"/>
-    <br/><br/>
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Celebration"/>
+    <div align="center">
+      
+### 🎉 **You found the easter egg!** 🎉
+### 💎 **Curiosity is the key to innovation** 💎  
+### 🚀 **Keep exploring, keep learning!** 🚀
+
+      <br/>
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Celebration"/>
+    </div>
   </details>
 </div>
 
@@ -579,7 +643,12 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 
 ### **🎲 RANDOM TECH FACTS**
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=8000&pause=2000&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🤖+Did+you+know%3F+The+first+computer+bug+was+an+actual+bug!;💡+Fun+Fact%3A+Python+was+named+after+Monty+Python's+Flying+Circus;🔐+Security+Tip%3A+The+strongest+passwords+are+passphrases;⚡+Performance+Note%3A+Premature+optimization+is+the+root+of+all+evil" alt="Tech Facts"/>
+  
+#### 🤖 Did you know? The first computer bug was an actual bug!
+#### 💡 Fun Fact: Python was named after Monty Python's Flying Circus
+#### 🔐 Security Tip: The strongest passwords are passphrases  
+#### ⚡ Performance Note: Premature optimization is the root of all evil
+
 </div>
 
 ---
@@ -587,7 +656,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🌐 **CONNECT WITH THE DIGITAL ARCHITECT**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=🚀+JOIN+THE+DIGITAL+REVOLUTION+🚀;🤝+COLLABORATE+ON+EPIC+PROJECTS+🤝;💬+LET'S+BUILD+THE+FUTURE+TOGETHER+💬" alt="Connect Header"/>
+  
+### 🚀 **JOIN THE DIGITAL REVOLUTION** 🚀
+### 🤝 **COLLABORATE ON EPIC PROJECTS** 🤝
+### 💬 **LET'S BUILD THE FUTURE TOGETHER** 💬
+
 </div>
 
 ### **📡 COMMUNICATION CHANNELS**
@@ -654,7 +727,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ## 🎊 **APPRECIATION ZONE**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=22&duration=4000&pause=1000&color=FF073A&center=true&vCenter=true&multiline=true&width=800&height=100&lines=⭐+Star+my+repositories+if+they+inspire+you!;🤝+Connect+with+me+for+epic+collaborations!;🚀+Let's+revolutionize+technology+together!" alt="Appreciation"/>
+  
+### ⭐ **Star my repositories if they inspire you!**
+### 🤝 **Connect with me for epic collaborations!**  
+### 🚀 **Let's revolutionize technology together!**
+
 </div>
 
 ### **💖 SHOW YOUR SUPPORT**
@@ -672,7 +749,12 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=5000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🇸🇩+From+Sudan+with+Love+%26+Innovation+🇸🇩;🔥+Crafted+with+Passion+by+Mazin+Yahia+🔥;⚡+Powered+by+Dreams%2C+Driven+by+Code+⚡;🚀+Building+Tomorrow's+Digital+Infrastructure+Today+🚀" alt="Footer Signature"/>
+  
+### 🇸🇩 **From Sudan with Love & Innovation** 🇸🇩
+### 🔥 **Crafted with Passion by Mazin Yahia** 🔥
+### ⚡ **Powered by Dreams, Driven by Code** ⚡
+### 🚀 **Building Tomorrow's Digital Infrastructure Today** 🚀
+
 </div>
 
 ---
