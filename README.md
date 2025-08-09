@@ -768,8 +768,9 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
     <b>🌍 Sudanese • Global Impact • Future-Focused Innovation 🌍</b>
     <br/><br/>
     <em>"In the realm of code, I am both the dreamer and the builder of digital realities"</em>
-  </sub>
-  <p align="center">
+    <br/>
+<p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
 </p>
+  </sub>
 </div>
