@@ -1,4 +1,4 @@
-# ⚡ **THE DIGITAL ARCHITECT** ⚡
+# ⚡ **Alpha** ⚡
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,5,10,14,24,25&height=300&section=header&text=MAZIN%20YAHIA&fontSize=80&fontColor=fff&animation=blinking&fontAlignY=35&desc=%22Architecting%20Tomorrow's%20Digital%20Reality%22&descAlignY=65&descSize=20&stroke=00ff41&strokeWidth=2"/>
@@ -7,6 +7,10 @@
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
+</p>
 
 <div align="center">
   <h1>
