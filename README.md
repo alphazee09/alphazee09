@@ -50,7 +50,7 @@
 </div>
 
 ### 🧠 **THE VISIONARY**
-> **10+ Years** of crafting digital excellence | **AI Security Pioneer** | **Backend Mastermind** | **Innovation Catalyst**
+> **6+ Years** of crafting digital excellence | **AI Security Pioneer** | **Backend Mastermind** | **Innovation Catalyst**
 
 I don't just write code—I architect digital ecosystems. As a **Sudan-born technologist**, I've dedicated my career to building the infrastructure that powers tomorrow's AI-driven world. From **enterprise-grade ERP systems** serving Fortune 500 companies to **cutting-edge cybersecurity platforms** that proactively defend against unknown threats.
 
