@@ -1,5 +1,4 @@
 
-```markdown
 <p align="center">
   <a href="https://mazinyahia.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MAZIN+YAHIA" alt="Mazin Yahia Typing Animation" />
