@@ -745,6 +745,16 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 
 ---
 
+
+  <em>نحن أسود الغاب أبناء الحروب , لا نهاب الموت أو نخش الخطوب</em>
+  <em>نحفظ السودان في هذي القلوب نفتديه من شمال أو جنوب</em>
+  <br/>
+   <br/>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
+</p>
+<br/><br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,10,14,24,25&height=200&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20Build%20Amazing%20Things%20Together!&descAlignY=90&descSize=16"/>
 </div>
@@ -767,13 +777,5 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
     <b>💎 Digital Architect • AI Security Pioneer • Backend Virtuoso 💎</b>
     <br/>
     <b>🌍 Sudanese • Global Impact • Future-Focused Innovation 🌍</b>
-    <br/><br/>
-    <em>نحن أسود الغاب أبناء الحروب , لا نهاب الموت أو نخش الخطوب</em>
-    <em>نحفظ السودان في هذي القلوب نفتديه من شمال أو جنوب</em>
-    <br/>
-    <br/>
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
-</p>
   </sub>
 </div>
