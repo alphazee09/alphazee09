@@ -1,105 +1,102 @@
-<h1 align="center">✨ <a href="https://mazinyahia.com/" target="_blank" rel="noopener noreferrer">Mazin Yahia</a> ✨</h1>
-
+<h1 align="center">✨ <a href="https://mazinyahia.com/"> Mazin Yahia </a> ✨</h1>
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" alt="Sudan Flag" width="120" />
+  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron+Slab&color=%2340c463&size=28&center=true&vCenter=true&width=600&duration=6000&pause=1000&lines=Value+Loyalty+Above+All+Else" alt="Typing Animation"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron+Slab&color=%2340c463&size=28&center=true&vCenter=true&width=600&duration=6000&pause=1000&lines=Value+Loyalty+Above+All+Else" alt="Typing Animation" />
+<h2 align="center">👨🏻‍💻 About Me</h2>
+<p align="justify">
+A skilled software developer and backend expert with a deep passion for creating innovative and secure technological solutions. With a strong foundation in Python, Laravel, Java, Flutter, Dart, and JavaScript, I've successfully led and contributed to multiple projects, including ERP's, CRM's systems, AI-driven cybersecurity platforms, and comprehensive API implementation and integrations for intensive business-oriented systems for large corporations. My experience spans over a decade, with a particular focus on backend development, API design, and database management. I am committed to advancing the field of AI by developing systems that proactively address and mitigate security concerns across various platforms.
 </p>
 
 ---
-
-## 👨🏻‍💻 About Me
-
-A passionate backend developer and software engineer with over a decade of experience creating secure, scalable, and innovative solutions.  
-Experienced in Python, Laravel, Java, Flutter, Dart, and JavaScript, specializing in API design, database management, and AI-driven cybersecurity platforms.
-
----
-
-## 💻 Tech Stack
-
+<h2 align="center">💻 Tech Stack</h2>
 <table align="center">
 <tr>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" /><br><b>Python</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" /><br><b>Java</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" /><br><b>C</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" /><br><b>C++</b></td>
-   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="65" /><br><b>PHP</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="65" /><br><b>Laravel</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" width="65" /><br><b>Dart</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="65" /><br><b>Flutter</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="65" /><br><b>JavaScript</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="65" /><br><b>Node.js</b></td>
-   <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="65" /><br><b>MySQL</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" /><br><b>MongoDB</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" width="65" height="65" alt="Java"/><br><b>Java</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++ (Language)</b></td>
+   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="65" height="65" alt="PHP"/><br><b>PHP</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="65" height="65" alt="Laravel"/><br><b>Laravel</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="65" height="65" alt="Dart"/><br><b>Dart</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="65" height="65" alt="Flutter"/><br><b>Flutter</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node.js</b></td>
+   <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="65" height="65" alt="MySQL"/><br><b>MySQL</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB</b></td>
 </tr>
 </table>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Backend+Development;API+Design;Database+Management" width="auto" height="35" alt="Typing"/>
 </p>
 
----
+<br>
 
-## 📕 Featured Repositories
-
+<h2 align="center">📕 Featured Repositories</h2>
 <div align="center">
   <a href="https://github.com/alphazee09/SkyGate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=SkyGate&theme=radical" alt="SkyGate" width="280" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=SkyGate&theme=transparent" alt="SkyGate"/>
   </a>
   <a href="https://github.com/alphazee09/CodeSculptor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=CodeSculptor&theme=radical" alt="CodeSculptor" width="280" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=CodeSculptor&theme=transparent" alt="CodeSculptor"/>
   </a>
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphazee09&show_icons=true&count_private=true&theme=radical" width="370" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphazee09&layout=compact&theme=radical" width="250" alt="Top Languages" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alphazee09&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphazee09&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alphazee09&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alphazee09&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alphazee09&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alphazee09&theme=transparent" alt='Profile'/>
+</div>
+
+<br>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=alphazee09&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/> </p>
 
+
+
+<h2 align="center">🔗 Reach Out</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphazee09&row=2&column=3&theme=radical&no-bg=true&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔗 Reach Out
-
-<p align="center">
-  <a href="mailto:mz@mazinyahia.com" title="ProtonMail">
-    <img src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" alt="ProtonMail" width="50" />
+  <a href="mailto:mz@mazinyahia.com">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/proton-mail-1.svg" width="50" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tama26phone@gmail.com" title="Gmail">
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="50" />
+  <a href="mailto:tama26phone@gmail.com">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="50" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://mazinyahia.com" title="Website">
-    <img src="https://mazinyahia.com/storage/image-logo-photoroom.png" alt="Website" width="65" />
+  <a href="https://mazinyahia.com">
+    <img align="center" src="https://mazinyahia.com/storage/image-logo-photoroom.png" width="65" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/alphazee09" title="LinkedIn">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="LinkedIn" width="50" />
+  <a href="https://linkedin.com/in/alphazee09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/alphazee09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook.svg" width="60" height="60" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/alphazee09" title="Facebook">
-    <img src="https://cdn.worldvectorlogo.com/logos/facebook.svg" alt="Facebook" width="60" />
+  <a href="https://x.com/alphazee09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/x-2.svg" width="50" height="50" alt="X (Twitter)"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/alphazee09" title="X (Twitter)">
-    <img src="https://cdn.worldvectorlogo.com/logos/x-2.svg" alt="X" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/alphazee_09" title="Instagram">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="Instagram" width="50" />
+  <a href="https://www.instagram.com/alphazee_09">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="50" height="50" alt="Instagram"/>
   </a>
 </p>
