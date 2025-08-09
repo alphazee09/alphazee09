@@ -8,10 +8,9 @@
   <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=Sudanese+From+Sudan+&+Proud;⚡+AI+SECURITY+MASTERMIND+⚡;🛡️+BACKEND+VIRTUOSO+🛡️;🚀+FULL-STACK+Developer+🚀;💎+VALUE+LOYALTY+ABOVE+ALL+ELSE+💎" alt="Epic Introduction"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=🇸🇩+SUDAN+DIGITAL+PIONEER+🇸🇩;⚡+AI+SECURITY+MASTERMIND+⚡;🛡️+BACKEND+VIRTUOSO+🛡️;🚀+FULL-STACK+ARCHITECT+🚀;💎+VALUE+LOYALTY+ABOVE+ALL+ELSE+💎" alt="Epic Introduction"/>
   </h1>
 </div>
 
@@ -766,8 +765,11 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
     <br/><br/>
     <b>💎 Digital Architect • AI Security Pioneer • Backend Virtuoso 💎</b>
     <br/>
-    <b>🌍 Sudan 🇸🇩 • Global Impact • Future-Focused Innovation 🌍</b>
+    <b>🌍 Sudanese • Global Impact • Future-Focused Innovation 🌍</b>
     <br/><br/>
     <em>"In the realm of code, I am both the dreamer and the builder of digital realities"</em>
   </sub>
+  <p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120" height="auto" alt="Sudan Flag"/>
+</p>
 </div>
