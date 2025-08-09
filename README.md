@@ -616,9 +616,10 @@ I don't just write code—I architect digital ecosystems. As a **Sudan-born tech
 ### 💎 **Curiosity is the key to innovation** 💎  
 ### 🚀 **Keep exploring, keep learning!** 🚀
 
-      <br/>
+  <br/>
       <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Celebration"/>
     </div>
+    
   </details>
 </div>
 
