@@ -118,19 +118,19 @@
 </td>
 
 <td align="center" width="200">
-<img src="https://cdn.worldvectorlogo.com/logos/comptia.svg" width="80"/><br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA80TASsQFwvV7YqIBso0KDzJ7-NLYKko8zA&s" width="80"/><br/>
 <b>CompTIA A+</b><br/>
 <sub>Core Hardware & OS Fundamentals</sub>
 </td>
 
 <td align="center" width="200">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968406.png" width="65"/><br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eNMpsHUsh2M8uzvffQ0w-PmZJFJpI7978RecQQurGHNqJwuGS8ltkREjJ06zgnOUOQ0&usqp=CAU" width="65"/><br/>
 <b>CompTIA Linux+</b><br/>
 <sub>Enterprise Linux Administration</sub>
 </td>
 
 <td align="center" width="200">
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="60"/><br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVsvn8nz_JPGxOdG03LWsUoCBn9klT8z8HNA&s" width="60"/><br/>
 <b>CompTIA Server+</b><br/>
 <sub>Server Infrastructure & Virtualization</sub>
 </td>
@@ -138,13 +138,13 @@
 
 <tr>
 <td align="center" width="200">
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048952.png" width="60"/><br/>
+<img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1736356144/Comptia_CySA_2Bce14595569180296572038.png" width="60"/><br/>
 <b>CompTIA CySA+</b><br/>
 <sub>Cybersecurity Analyst Certification</sub>
 </td>
 
 <td align="center" width="200">
-<img src="https://cdn-icons-png.flaticon.com/512/4144/4144726.png" width="65"/><br/>
+<img src="https://www.globalknowledge.com/-/media/global-knowledge/logos/certification-logos/comptia/cloudplus-logo.jpg?h=200&w=200" width="65"/><br/>
 <b>CompTIA Cloud Essentials+</b><br/>
 <sub>Cloud Computing Concepts & Management</sub>
 </td>
