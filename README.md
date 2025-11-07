@@ -189,10 +189,10 @@ Tech Writer 📝 • Speaker 🎤 • Mentor 👨‍🏫 • OSS Contributor �
 
 | Platform           | Link                                                               |
 | ------------------ | ------------------------------------------------------------------ |
-| 🌐 **Portfolio**   | [mazinyahia.com](https://mazinyahia.com)                           |
+| 🌐 **Portfolio**   | [softlabs](https://softlabs.aygroup.app)                           |
 | 💼 **LinkedIn**    | [linkedin.com/in/alphazee09](https://linkedin.com/in/alphazee09)   |
 | 🐦 **X (Twitter)** | [x.com/alphazee09](https://x.com/alphazee09)                       |
-| 📧 **Email**       | [mz@mazinyahia.com](mailto:mz@mazinyahia.com)                      |
+| 📧 **Email**       | [Eng.MazinYahia](mailto:softlabs@ay-group.net)                      |
 | 📸 **Instagram**   | [instagram.com/alphazee_09](https://www.instagram.com/alphazee_09) |
 | 👥 **Facebook**    | [facebook.com/alphazee09](https://www.facebook.com/alphazee09)     |
 
@@ -228,9 +228,9 @@ Tech Writer 📝 • Speaker 🎤 • Mentor 👨‍🏫 • OSS Contributor �
   <img src="https://komarev.com/ghpvc/?username=alphazee09&label=Profile%20Views&color=AE00FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<em>نحن أسود الغاب أبناء الحروب، لا نهاب الموت أو نخش الخطوب
-نحفظ السودان في هذي القلوب، نفتديه من شمال أو جنوب</em>
-
 <p align="center">
+  <em>نحن أسود الغاب أبناء الحروب، لا نهاب الموت أو نخش الخطوب
+  نحفظ السودان في هذي القلوب، نفتديه من شمال أو جنوب</em>
+
   <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120"/>
 </p>
