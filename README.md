@@ -181,3 +181,56 @@ Tech Writer 📝 • Speaker 🎤 • Mentor 👨‍🏫 • OSS Contributor �
 ║ ⚙ PERFORMANCE 💎 EXCELLENCE           ║
 ║ 🌍 GLOBAL     🔮 FUTURE-READY         ║
 ╚══════════════════════════════════════╝
+````
+
+---
+
+## 🌐 **Connect**
+
+| Platform           | Link                                                               |
+| ------------------ | ------------------------------------------------------------------ |
+| 🌐 **Portfolio**   | [mazinyahia.com](https://mazinyahia.com)                           |
+| 💼 **LinkedIn**    | [linkedin.com/in/alphazee09](https://linkedin.com/in/alphazee09)   |
+| 🐦 **X (Twitter)** | [x.com/alphazee09](https://x.com/alphazee09)                       |
+| 📧 **Email**       | [mz@mazinyahia.com](mailto:mz@mazinyahia.com)                      |
+| 📸 **Instagram**   | [instagram.com/alphazee_09](https://www.instagram.com/alphazee_09) |
+| 👥 **Facebook**    | [facebook.com/alphazee09](https://www.facebook.com/alphazee09)     |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open_for_Collaboration-08FDD8?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Consulting_Available-7B61FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Speaking_Engagements-FF00AA?style=for-the-badge&logo=microphone&logoColor=white"/>
+</div>
+
+---
+
+## ⭐ **Appreciation Zone**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐-Star_My_Repos-FFD700?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/🍴-Fork_And_Contribute-08FDD8?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/💬-Start_A_Discussion-AE00FF?style=for-the-badge&logo=discourse"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20,24,30&height=200&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20Build%20Amazing%20Things%20Together!&descAlignY=90&descSize=16"/>
+</div>
+
+<div align="center">
+  🇸🇩 From Sudan with Innovation  
+  🔥 Crafted by Mazin Yahia • AI Architect  
+  🚀 Dream-Powered • Code-Driven • Future-Ready
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alphazee09&label=Profile%20Views&color=AE00FF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<em>نحن أسود الغاب أبناء الحروب، لا نهاب الموت أو نخش الخطوب
+نحفظ السودان في هذي القلوب، نفتديه من شمال أو جنوب</em>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120"/>
+</p>
