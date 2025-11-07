@@ -1,173 +1,183 @@
-# ⚡ **ALPHAZEE09 – Mazin Yahia** ⚡  
-> *Architecting Tomorrow’s Digital Reality*  
+# ⚡ **ALPHAZEE09** ⚡
 
-<div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,5,10,14,24,25&height=300&section=header&text=MAZIN%20YAHIA&fontSize=80&fontColor=fff&animation=blinking&fontAlignY=35&desc=%22Architecting%20Tomorrow%27s%20Digital%20Reality%22&descAlignY=65&descSize=20&stroke=00ff41&strokeWidth=2" />  
-</div>
-
-<div align="center">  
-  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid" />  
-</div>
-
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=🇸🇩+Sudanese+Software+Developer+🇸🇩;⚡+AI+&+Security+Mastermind+⚡;🛡️+Backend+Virtuoso+🛡️;🚀+Full-Stack+Architect+🚀;💎+Value+Loyalty+Above+All+Else+💎" alt="Intro Lines"/>  
-</div>
-
----
-
-## 🎯 Digital Manifesto  
-> *“In a world of digital chaos, I build the infrastructure of order.”*  
-> *“Bridging human imagination and AI-driven reality.”*  
-> *“Every line of code is a step in technological evolution.”*
-
-### 🧠 About Me  
-- **6+ years** in software development, building scalable systems, backend platforms & AI-security solutions.  
-- Sudan-born, global mindset: designing for enterprises, startups and everything in-between.  
-- Mission: *Merge human innovation with artificial intelligence, crafting secure, high-performance digital ecosystems.*  
-
----
-
-## 🛠 Technological Arsenal  
-
-### 🔥 MASTER Tier – Core Craft  
-| Technology | Description |
-|------------|-------------|
-| **Python** | 10+ yrs: AI/ML + Cybersecurity |
-| **Java**   | Enterprise architecture + Spring ecosystems |
-| **PHP**    | Web systems, APIs, CRM/ERP platforms |
-| **Laravel**| Model-view-controller, APIs, auth systems |
-| **JavaScript** | ES6+, React, Node.js |
-
-### ⚡ EXPERT Tier – Support Power  
-| Technology | Description |
-|------------|-------------|
-| **Flutter & Dart** | Cross-platform mobile solutions |
-| **Node.js** | Backend services, microservices |
-| **MySQL / MongoDB** | Relational & NoSQL data systems |
-| **C / C++** | Systems-level coding and performance tweaks |
-
-### 🛡️ Specialized Domains  
-- **AI & Cybersecurity** – Threat detection, ML security, proactive defense  
-- **Backend Architecture** – API design, database tuning, microservices  
-- **Enterprise Systems** – Multi-tenant SaaS, ERP/CRM, system integrations  
-- **AI-/ML Integration** – Neural networks, predictive analytics, data science  
-
----
-
-## 🌟 Legendary Project Showcase  
-Here are two standout productions:
-
-| Repository | Focus |
-|------------|--------|
-| [SkyGate](https://github.com/alphazee09/SkyGate) | AI-Security Platform – real-time threat detection, ML-powered analytics |
-| [CodeSculptor](https://github.com/alphazee09/CodeSculptor) | A developer productivity and architecture framework – code generation, patterns, automation |
-
-And there are many more enterprise-grade solutions: ERP for Fortune 500, CRM ecosystems, API gateways handling tens of thousands of requests/sec.
-
----
-
-## 📊 Performance Dashboard  
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alphazee09&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=FF073A&text_color=C9D1D9&icon_color=00FF41&border_color=30363D&border_radius=15&include_all_commits=true&count_private=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphazee09&layout=donut&theme=github_dark&bg_color=0D1117&title_color=FF073A&text_color=C9D1D9&border_color=30363D&border_radius=15&langs_count=10" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,10,20,24,30&height=300&section=header&text=MAZIN%20YAHIA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Tomorrow’s%20Digital%20Reality&descAlignY=65&descSize=20&strokeWidth=0"/>
 </div>
 
-*Includes full commit history, language distribution and activity insights.*
-
----
-
-## 🏆 Hall of Achievements  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphazee09&theme=discord&no-bg=true&no-frame=true&row=3&column=4&margin-w=10&margin-h=10&title=MultiLanguage,Stars,Commit,Repositories,PullRequest,Issues,Followers,Organizations" />
+  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-**Professional Milestones**  
-- 10+ years industry experience  
-- Focus on AI-Security and backend mastery  
-- Delivered enterprise-scale systems for global clients  
-- Global impact across continents and millions of users  
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2800&pause=1000&color=08FDD8&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🇸🇩+Sudanese+Software+Architect+🇸🇩;⚡+AI+Security+Visionary+⚡;🛡️+Backend+Virtuoso+🛡️;🚀+Full-Stack+Architect+🚀;💎+Loyalty.+Discipline.+Excellence.+💎" alt="Intro Lines"/>
+  </h1>
+</div>
 
 ---
 
-## 💡 Innovation Laboratory  
-| Focus Area | Description |
-|------------|-------------|
-| **Neural Networks** | Deep learning, computer vision, NLP, RL |
-| **Quantum Security** | Post-quantum cryptography, quantum-safe algorithms |
-| **Edge Computing** | IoT, real-time processing, distributed systems |
-| **Blockchain & Web3** | DeFi protocols, decentralized identity, smart contracts |
+## 🪩 **Digital Manifesto**
 
-Active pipeline: AI Threat Predictor v2.0, Neural API Gateway, Quantum-Ready Backend, Zero-Trust Framework, ML Security Suite.
+> *In a world of digital noise, I build clarity.*  
+> *Between humanity and AI, I design equilibrium.*  
+> *Every function is philosophy. Every commit — evolution.*
 
----
-
-## 🎨 Digital Persona  
-> *“In the symphony of code, I am the conductor.”*  
-> *“Where AI meets security, innovation is born.”*  
-> *“From Sudan’s sands to global servers.”*  
-
-**Core Philosophies**  
-- 💎 **Loyalty** – Trust, commitment, excellence above all.  
-- 🚀 **Innovation** – Pushing boundaries, creating what didn’t exist.  
-- 🛡️ **Security** – Every system a fortress, every line of code a shield.  
+**6+ years** forging AI-secured backend ecosystems.  
+**Mission:** Bridge human creativity and artificial intelligence — crafting infrastructures that outlast trends.
 
 ---
 
-## 📚 Knowledge Vault  
-**Continuous Learning & Community Building**  
-Latest explorations:
-- Transformer & LLM architectures  
-- Zero-Trust security paradigms  
-- Serverless & cloud-native architectures  
-- Kubernetes orchestration mastery  
-- Rust for systems programming  
+## 💠 **Technological Arsenal**
 
-Active in writing, mentoring and open-source: tech blog author, conference speaker, open-source contributor.
+<div align="center">
 
----
+### 🔥 **Master Tier Technologies**
+<img src="https://skillicons.dev/icons?i=python,java,php,laravel,js" height="75"/>
 
-## 🎯 Mission 2025  
-| Pillar | Objective |
-|--------|-----------|
-| **Primary Objectives** | AI Security Platform v2.0 • Enterprise ERP Suite • Global API Gateway |
-| **Learning Goals**      | Advanced ML Engineering • Blockchain Web3 • Technical Leadership & Strategy |
+**Python • Java • PHP • Laravel • JavaScript**
 
----
+### ⚡ **Expert Arsenal**
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mysql,mongodb,c,cpp" height="65"/>
 
-## 🌍 Global Impact & Recognition  
-- Projects deployed across **5+ continents**  
-- Partnered with **50+ companies** ranging from startups to Fortune 500  
-- Reached **10M+ end-users**, created **$100M+ value**  
-- Received awards: Cybersecurity Innovation Award 2024 • Top Backend Developer MENA 2023 • AI Excellence Recognition 2022  
+**Flutter • Node.js • MySQL • MongoDB • C/C++**
+
+### 🛡️ **Specialized Domains**
+<img src="https://img.shields.io/badge/AI_&_Cybersecurity-7B61FF?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend_Architecture-00F0FF?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/Enterprise_Systems-AE00FF?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI/ML_Integration-FF00AA?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🔮 Daily Wisdom & Inspiration  
+## 🚀 **Projects & Masterpieces**
+
+<div align="center">
+
+<a href="https://github.com/alphazee09/SkyGate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=SkyGate&theme=radical&bg_color=0B0E12&title_color=08FDD8&text_color=E6E6E6&icon_color=AE00FF&border_color=30363D&border_radius=15" height="150"/>
+</a>
+<a href="https://github.com/alphazee09/CodeSculptor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphazee09&repo=CodeSculptor&theme=radical&bg_color=0B0E12&title_color=08FDD8&text_color=E6E6E6&icon_color=AE00FF&border_color=30363D&border_radius=15" height="150"/>
+</a>
+
+</div>
+
+**🏢 Enterprise Highlights**
+- **ERP Systems** — multi-tenant architecture, live analytics  
+- **CyberSec Platforms** — ML threat prediction, zero-trust defense  
+- **API Gateway** — 10k req/sec, auto-scaling, telemetry pipeline  
+
+---
+
+## 📊 **Performance Analytics**
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alphazee09&show_icons=true&theme=react&bg_color=0B0E12&title_color=08FDD8&icon_color=AE00FF&text_color=E6E6E6&border_color=30363D&border_radius=15"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphazee09&layout=donut&theme=react&bg_color=0B0E12&title_color=08FDD8&text_color=E6E6E6&border_color=30363D&border_radius=15"/>
+</div>
+
+---
+
+## 🏆 **Hall of Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphazee09&theme=discord&no-bg=true&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI_Security_Pioneer-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend_Master-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Enterprise_Architect-AE00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Global_Impact-FF00AA?style=for-the-badge"/>
+</div>
+
+---
+
+## 🧬 **Innovation Lab**
+
+**Research Focus:**  
+🧠 Neural Networks • 🔐 Quantum Security • 🌐 Edge Computing • 🔗 Blockchain  
+
+**Active Pipeline:**  
+AI Threat Predictor 2.0 • Neural API Gateway • Quantum-Backend Suite • Zero-Trust Framework  
+
+---
+
+## 🎨 **Digital Persona**
+
+> *“Code is art; architecture is immortality.”*  
+> *“Security is my canvas; innovation, my signature.”*
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Loyalty-FF00AA?style=for-the-badge&logo=trustpilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Innovation-08FDD8?style=for-the-badge&logo=atom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-AE00FF?style=for-the-badge&logo=shield&logoColor=white"/>
+</div>
+
+---
+
+## 📚 **Knowledge Vault**
+
+**Learning Streams:**  
+LLMs & Transformers • Zero-Trust Security • Serverless Design • Kubernetes • Rust  
+
+**Mentorship & Sharing:**  
+Tech Writer 📝 • Speaker 🎤 • Mentor 👨‍🏫 • OSS Contributor 🌍  
+
+---
+
+## 🎯 **Mission 2025**
+
+| **Objective** | **Focus** |
+|----------------|-----------|
+| 🎯 AI Security Platform v2.0 | Real-time ML-driven threat analytics |
+| 🏢 Enterprise ERP Suite | Multi-tenant SaaS with 99.9% uptime |
+| 🌐 Global API Gateway | Distributed infrastructure at scale |
+| 🧠 Advanced ML Ops | Production pipelines, MLOps automation |
+| 🔗 Blockchain Integration | Smart contracts & Web3 identity |
+| 🌟 Leadership Excellence | Strategic architecture & mentoring |
+
+---
+
+## 🌍 **Global Recognition**
+
+🌎 Projects across **5+ continents**  
+🏢 Collaborated with **50+ enterprises**  
+👥 Impacted **10M+ users**  
+💰 Created **$100M+ in value**  
+
+🏆 **Awards:**  
+- Cybersecurity Innovation Award 2024 🥇  
+- Top Backend Developer MENA 2023 🥈  
+- AI Excellence Recognition 2022 🥉  
+
+---
+
+## 💡 **Daily Inspiration**
+
 > “The best way to predict the future is to invent it.” – Alan Kay  
-
-> “Code is poetry, architecture is symphony.”  
-> “In every bug there’s a lesson waiting to be learned.”  
-> “Security is not a feature; it’s a foundation.”  
+> “Perfection is not when there’s nothing left to add — but nothing left to remove.”  
 
 ---
 
-## 🎪 Fun Zone & Easter Eggs  
-<details><summary>🎉 Click here for your hidden surprise!</summary>
+## 🎪 **Fun Zone**
+
+<details><summary>🎉 Click for a surprise 🎉</summary>
 <br/>
-> 🎊 You found the Easter Egg! 🎊  
-> 💎 Curiosity is the key to innovation. Keep exploring, keep learning!  
-<br/>  
-> <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Celebration"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+  <br/><b>Curiosity unlocks innovation.</b>
+</div>
 </details>
 
-### 🎨 Code-Art Gallery  
 ```ascii
 ╔══════════════════════════════════════╗
-║       🔥 MAZIN YAHIA DIGITAL 🔥      ║
-║           ARCHITECTURE                ║
+║       ⚡ MAZIN YAHIA DIGITAL ⚡       ║
+║          CYBERPUNK ARCHITECT         ║
 ╠══════════════════════════════════════╣
-║ 🛡️ SECURITY    🚀 INNOVATION          ║
-║ ⚡ PERFORMANCE  💎 EXCELLENCE          ║
-║ 🌍 GLOBAL      🔮 FUTURE-READY        ║
+║ 🛡 SECURITY   🚀 INNOVATION           ║
+║ ⚙ PERFORMANCE 💎 EXCELLENCE           ║
+║ 🌍 GLOBAL     🔮 FUTURE-READY         ║
 ╚══════════════════════════════════════╝
-        Building Tomorrow’s Digital Reality
