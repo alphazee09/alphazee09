@@ -112,7 +112,7 @@
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="55"/><br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8UCRPYX2WUn1xdwqI4EK8xQ4eZE4wzZkB1w&s" width="55"/><br/>
 <b>Bachelor’s Degree (Honours)</b><br/>
 <sub>Computing & Information Systems</sub>
 </td>
