@@ -10,7 +10,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=🇸🇩+SUDAN+DIGITAL+PIONEER+🇸🇩;⚡+AI+SECURITY+MASTERMIND+⚡;🛡️+BACKEND+VIRTUOSO+🛡️;🚀+FULL-STACK+ARCHITECT+🚀;💎+VALUE+LOYALTY+ABOVE+ALL+ELSE+💎" alt="Epic Introduction"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FF41&background=FF000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=🇸🇩+SUDANESE+SOFTWARE+DEVELOPER+🇸🇩;⚡+AI+SECURITY+MASTERMIND+⚡;🛡️+BACKEND+VIRTUOSO+🛡️;🚀+FULL-STACK+ARCHITECT+🚀;💎+VALUE+LOYALTY+ABOVE+ALL+ELSE+💎" alt="Epic Introduction"/>
   </h1>
 </div>
 
