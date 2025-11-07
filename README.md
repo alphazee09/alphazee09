@@ -150,7 +150,7 @@
 </td>
 
 <td align="center" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/IELTS_logo.svg" width="85"/><br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8uNH9dCOA5IjNfxDsM_M49WfWo7MmL0shA&s" width="85"/><br/>
 <b>IELTS Certification</b><br/>
 <sub>English Proficiency • C1 Level</sub>
 </td>
