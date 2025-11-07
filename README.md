@@ -109,17 +109,56 @@
 
 <div align="center">
 
-| Certification | Logo |
-|---------------|------|
-| 🎓 **Bachelor’s Degree (Honours)** in Computing & Information Systems | <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="50"/> |
-| 💻 **CompTIA A+** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Comptia-logo.svg" width="80"/> |
-| 🐧 **CompTIA Linux+** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="60"/> |
-| 🖥 **CompTIA Server+** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Server-icon.svg" width="55"/> |
-| 🔐 **CompTIA Cybersecurity Analyst (CySA+)** | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Shield_icon.svg" width="50"/> |
-| ☁️ **CompTIA Cloud Essentials+** | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloud_font_awesome.svg" width="60"/> |
-| 🗣 **IELTS Certified** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/IELTS_logo.svg" width="80"/> |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="55"/><br/>
+<b>Bachelor’s Degree (Honours)</b><br/>
+<sub>Computing & Information Systems</sub>
+</td>
+
+<td align="center" width="200">
+<img src="https://cdn.worldvectorlogo.com/logos/comptia.svg" width="80"/><br/>
+<b>CompTIA A+</b><br/>
+<sub>Core Hardware & OS Fundamentals</sub>
+</td>
+
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968406.png" width="65"/><br/>
+<b>CompTIA Linux+</b><br/>
+<sub>Enterprise Linux Administration</sub>
+</td>
+
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="60"/><br/>
+<b>CompTIA Server+</b><br/>
+<sub>Server Infrastructure & Virtualization</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048952.png" width="60"/><br/>
+<b>CompTIA CySA+</b><br/>
+<sub>Cybersecurity Analyst Certification</sub>
+</td>
+
+<td align="center" width="200">
+<img src="https://cdn-icons-png.flaticon.com/512/4144/4144726.png" width="65"/><br/>
+<b>CompTIA Cloud Essentials+</b><br/>
+<sub>Cloud Computing Concepts & Management</sub>
+</td>
+
+<td align="center" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/IELTS_logo.svg" width="85"/><br/>
+<b>IELTS Certification</b><br/>
+<sub>English Proficiency • C1 Level</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
 
 ---
 
@@ -261,5 +300,4 @@ Transformer Models • Zero-Trust Security • Serverless Design • Kubernetes 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/7124/7124129.png" width="120"/>
 </p>
-```
 
